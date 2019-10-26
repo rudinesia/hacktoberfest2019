@@ -11,6 +11,6 @@
 7. [Anggih Nur](https://github.com/anggihnurh)
 8. [Fikri Yusrihan](https://github.com/fikriyusrihan)
 9. [Wahidatun Nur Khasanah](https://github.com/ummuhafshah)
-10. [Rudi Kurniawan] (hrrps://github.com/rudinesia)
+10. [Rudi Kurniawan](hrrps://github.com/rudinesia)
 
 ## 2018
